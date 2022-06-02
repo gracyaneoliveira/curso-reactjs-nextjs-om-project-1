@@ -1,5 +1,5 @@
 
-**ReactJs and NextJs Course (Intermediate and Advanced)**
+**ReactJS and NextJS Course (Intermediate and Advanced)**
 
 **Section 2: React (Basic)** - PROJECT-1
 
