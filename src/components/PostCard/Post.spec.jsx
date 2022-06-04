@@ -7,7 +7,7 @@ const props = postCardPropsMock;
 
 describe('<PostCard />', () => {
     it('should render PostCard correctly', () => {
-        render(<PostCard {...props} />);       
+        render(<PostCard {...props} />);
 
         expect(screen.getByAltText(/title 1/i))
           .toHaveAttribute('src', 'img/img.png');
